@@ -47,11 +47,10 @@ flowchart LR
 
 This module can be adapted to different user groups. To see the case “Male with suspicious areas” explained for each role:
 
-Clinicians
+- **Clinicians:** [Training clinicians](https://github.com/BridgingKnowledge/medibridge-training-clinicians)
+- **Specialists:** [Training specialists](https://github.com/BridgingKnowledge/medibridge-training-specialists)
+- **Developers:** [Training developers](https://github.com/BridgingKnowledge/medibridge-training-developers)
 
-Specialists
-
-Developers
 
 
 💡 MediBridge Training demonstrates how one case can be translated into different perspectives, showing flexibility in communication and knowledge transfer.
